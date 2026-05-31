@@ -69,7 +69,5 @@ git push -u origin main
 
 ## Repository link for reviewers
 
-- **Repository:** `https://github.com/<your-username>/<your-repo>`
-- **This README on GitHub:** `https://github.com/<your-username>/<your-repo>/blob/main/README.md`
-
-Replace `<your-username>` and `<your-repo>` with your actual GitHub details before you push and send the link.
+- **Repository:** `https://github.com/udeeptimodi/workspace-init`
+- **This README on GitHub:** `https://github.com/udeeptimodi/workspace-init/edit/master/README.md`
